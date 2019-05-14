@@ -143,7 +143,7 @@ uniq(names, function(uniqArr) {
 */
 
 function each(arr, cb) {
-    // where I left off
+    // WHERE I LEFT OFF
 }
 
 
